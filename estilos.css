@@ -298,6 +298,8 @@ p{
 	margin-left:6%;
 }
 .his{
+	flex-wrap:wrap;
+	display:flex;
 	width:auto;
 	height:auto;
 }

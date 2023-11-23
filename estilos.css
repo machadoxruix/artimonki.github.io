@@ -373,13 +373,14 @@ p{
       header{
 		  flex-direction:column;
 		  height:auto;
-		  padding-bottom:2%;
       }
 	  .nav{
 		  flex-direction:row;
 		  padding:0%;
 		  width:100%;
 		  height:auto;
+		  margin-bottom:4%;
+		  margin-top:2%;
 	  }
 	  .nav a:link{
 		  margin-right:2%;
